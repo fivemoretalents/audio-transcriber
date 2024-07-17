@@ -1,0 +1,54 @@
+/* audio transcriber styling */
+
+.container {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.wrap h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.wrap form {
+    margin-top: 20px;
+}
+
+.wrap label {
+    display: block;
+    margin-bottom: 8px;
+    color: #555;
+    font-weight: bold;
+}
+
+.wrap input[type="file"] {
+    margin-top: 4px;
+}
+
+.wrap input[type="submit"] {
+    background-color: #007cba;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+    margin-top: 10px;
+}
+
+.wrap input[type="submit"]:hover {
+    background-color: #005a9e;
+}
+
+.transcription {
+    margin-top: 20px;
+    text-align: left;
+    padding: 10px;
+    background-color: #f5f5f5;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}

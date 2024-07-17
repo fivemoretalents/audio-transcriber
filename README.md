@@ -10,7 +10,8 @@ The first input field requires you to select the audio file that you wish to tra
 The second input field requires you enter a title for the post you wish to make.
 The third input field requires you to select a post category where youd like the post to be made in.
 
-![image](https://github.com/user-attachments/assets/84236b44-7e07-43a3-bf75-2b9254d08d74)
+![image](https://github.com/user-attachments/assets/d92fbda1-f2be-4927-9248-78c73902152e)
+
 
 
 

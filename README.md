@@ -7,7 +7,7 @@ these three files. You will be able to install this plugin directly into your Wo
 
 Demo: You will be prompted with 3 required input fields.
 The first input field requires you to select the audio file that you wish to transcribe.
-The second input field requires you enter a title for the post you wish to make.
+The second input field requires you to enter a title for the post you wish to make.
 The third input field requires you to select a post category where youd like the post to be made in.
 
 ![image](https://github.com/user-attachments/assets/d92fbda1-f2be-4927-9248-78c73902152e)

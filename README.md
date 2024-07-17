@@ -9,7 +9,10 @@ Demo: You will be prompted with 3 required input fields.
 The first input field requires you to select the audio file that you wish to transcribe.
 The second input field requires you enter a title for the post you wish to make.
 The third input field requires you to select a post category where youd like the post to be made in.
-![image](https://github.com/user-attachments/assets/4b0a5c83-61ac-4898-824a-561dbcddbb39)
+
+![image](https://github.com/user-attachments/assets/84236b44-7e07-43a3-bf75-2b9254d08d74)
+
+
 
 After you upload the data, you will be provided a link to view your post
 ![image](https://github.com/user-attachments/assets/a3e6ef3b-5eb6-4d33-a255-2986c26fa088)

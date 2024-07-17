@@ -15,8 +15,6 @@ The third input field requires you to select a post category where youd like the
 
 
 After you upload the data, you will be provided a link to view your post
-![image](https://github.com/user-attachments/assets/a3e6ef3b-5eb6-4d33-a255-2986c26fa088)
-
 This will redirect you to the post
 
 ![image](https://github.com/user-attachments/assets/07366bfe-5576-4ab0-a779-e3be89aba606)
